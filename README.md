@@ -60,7 +60,7 @@ None. You only need a modern web browser (Chrome, Firefox, Edge, Safari).
 ## 📁 File Structure
  
 ```
-CA-NIS2-Auditor/
+CA-NIS2-Auditor/CA-NIS2-Auditor-v1
 ├── CA-NIS2-Auditor.html   ← Main file, open this in your browser
 ├── app.js                 ← Application logic
 ├── styles.css             ← Stylesheet
