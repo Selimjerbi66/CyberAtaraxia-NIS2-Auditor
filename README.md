@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/CyberAtaraxia_LOGO.png" width="140" alt="CyberAtaraxia Logo"/>
+  <img src="https://github.com/Selimjerbi66/CyberAtaraxia-NIS2-Auditor/blob/main/CA-NIS2-Auditor-v1/images/CyberAtaraxia_LOGO.png?raw=true" width="140" alt="CyberAtaraxia Logo"/>
   <h1>CA NIS2 Auditor</h1>
  
   <p>
@@ -21,7 +21,7 @@
  
 **CyberAtaraxia NIS2 Auditor** is an open-source, browser-based audit tool that helps small and medium-sized enterprises (SMEs) assess their compliance with the **European NIS2 Directive (2024)**.
 
-First program in the CyberAtaraxia Suite. CA NIS2 Auditor is a Cybersecurity Auditing Tool designed to assess the NIS2 Compliance of a company. Of course, this tool needs to be in the hands of a certified auditor in order to be handled properly. 
+First program of the CyberAtaraxia Suite, CA NIS2 Auditor is a Cybersecurity Auditing Tool designed to assess the NIS2 Compliance of a company. Of course, this tool needs to be in the hands of a certified auditor in order to be handled properly. 
 It guides the auditor through the **8 key themes** of the NIS2 directive with structured questionnaires, automatic scoring, and a detailed compliance report — all without requiring any installation or technical setup.
  
 > ⚠️ **Currently available in French only.** An English version is in the works and will be released soon.
